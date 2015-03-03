@@ -1,0 +1,6 @@
+
+1) Create a GUI for a Tic Tac Toe game. 
+   Use the existing interface TicTacToeAble and its implementation.
+
+2) Write a new class that implements the Tic Tac Toe interface (=TicTacToeAble),
+   but make a very stupid AI.
