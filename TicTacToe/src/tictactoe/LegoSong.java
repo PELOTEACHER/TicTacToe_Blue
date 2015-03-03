@@ -21,4 +21,9 @@ public class LegoSong {
         System.out.println("Everything is awesome!!!!...........");
     }
     
+    /*
+    You need to either COMMIT or DISCARD all changes
+    before you are able to REVERT anything..
+    */
+    
 }
