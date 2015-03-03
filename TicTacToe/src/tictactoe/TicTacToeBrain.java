@@ -18,7 +18,7 @@ public class TicTacToeBrain implements TicTacToeAble {
     /* player two */
     public static final int TWO = 2;
     
-    
+    //this is a change :P
     /* the board */
  private int board[][];
   
